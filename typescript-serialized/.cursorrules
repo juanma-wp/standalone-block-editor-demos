@@ -1,0 +1,8 @@
+1. Setting up a Vite + React + TypeScript project for Gutenberg block editor
+2. Installing and configuring necessary dependencies (@vitejs/plugin-react)
+3. Configuring Vite for React support
+4. Integrating WordPress Gutenberg blocks
+5. Adding Node.js polyfills using rollup-plugin-node-polyfills
+6. Creating split panel view:
+   - Left panel: BlockEditor interface
+   - Right panel: Serialized content display
